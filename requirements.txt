@@ -1,0 +1,21 @@
+# Google API client library and authentication tools
+google-api-python-client==2.83.0
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+google-auth-httplib2==0.1.0
+
+# Streamlit for the web app
+streamlit==1.25.0
+
+# Base libraries for handling dates and times
+pandas==2.1.1
+
+# Regex, for data cleaning or email parsing
+re  # Built-in, no need to add explicitly
+
+# The following libraries are built into Python and don't need to be added:
+# - os
+# - base64
+# - datetime
+# - time
+# - email.utils
